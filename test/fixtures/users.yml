@@ -8,8 +8,8 @@ one:
   description: MyText
 
 two:
-  username: MyString
-  password: MyString
-  first_name: MyString
-  last_name: MyString
-  description: MyText
+  username: YourString
+  password: YourString
+  first_name: YourString
+  last_name: YourString
+  description: YourText
